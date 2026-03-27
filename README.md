@@ -36,7 +36,7 @@ This is a simple calculator made using HTML, CSS, and JavaScript.
 
 ## 🔹 Author
 
-Made by [Your Name]
+Made by [Asish Kumar Saha]
 
 ---
 
